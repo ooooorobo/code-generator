@@ -1,6 +1,8 @@
 ### hygen
 
 ```sh
+npm run hygen
+// 혹은
 hygen component new
 ```
 
@@ -10,6 +12,8 @@ hygen component new
 ### plop
 
 ```shell
+npm run plop
+// 혹은
 npx plop
 ```
 
